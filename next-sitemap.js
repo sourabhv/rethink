@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://startup-agency-creative.vercel.app',
+  siteUrl: "https://rethinkstudio.co",
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
